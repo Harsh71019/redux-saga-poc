@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 30,
+      "city": "New York",
+      "email": "john@gmail.com",
+      "phone": "9723893892",
+      "address": "New York"
+    }
+  ]
+}
